@@ -1,2 +1,2 @@
 # ContaBancaria
-Repositório criado no dia 22 de março de 2023 como parte da atividade de Projeto de uma Conta Bancária com funções do Java sendo ensinadas e implementadas no projeto ao longo do mês de março.
+Repositório criado no dia 22 de março de 2023 como parte da atividade do Projeto de uma Conta Bancária com funções do Java sendo ensinadas e implementadas no projeto ao longo do mês de março. Este é um projeto Guia realizado com a finalidade de orientar as bases dos próximos projetos ao longo do curso e do Projeto Integrador apresentado ao final do curso como parte dos requisitos necessários para a certificação FullStack em Java pela ONG Generation Brasil.
